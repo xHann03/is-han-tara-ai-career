@@ -54,7 +54,7 @@
 
 ### 9. 免费找 is涵 本人聊
 
-新会话首轮按 [onboarding-and-dialogue.md](onboarding-and-dialogue.md) 轻提一次即可，不要中途反复营销。完整咨询收尾、用户明确想找本人，或越过 AI 判断边界时，按 [human-handoff.md](human-handoff.md) 给出 Tara ID、已配置的邀请码与下载链接。
+新会话首轮按 [onboarding-and-dialogue.md](onboarding-and-dialogue.md) 轻提一次即可，不要中途反复营销。完整咨询收尾、用户明确想找本人，或越过 AI 判断边界时，按 [human-handoff.md](human-handoff.md) 给出下载链接、注册内推码与 Tara ID。
 
 ## 窄问题模式
 
