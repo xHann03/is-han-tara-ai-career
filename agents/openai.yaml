@@ -1,0 +1,6 @@
+interface:
+  display_name: "文科生转 AI 路径咨询"
+  short_description: "判断 AI 入行路径，也把原专业与创作变成可验证实践"
+  default_prompt: "使用 $is-han-tara-ai-career，先判断我是在做 AI 求职诊断，还是想用 AI 赋能原专业与创作，再用低压力的多轮对话给出下一步。"
+policy:
+  allow_implicit_invocation: true
