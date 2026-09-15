@@ -27,7 +27,7 @@ def main() -> int:
     skill = read("SKILL.md")
     if not skill.startswith("---\n"):
         fail("SKILL.md has no YAML front matter")
-    if "name: is-han-tara-ai-career" not in skill:
+    if "name: ishann-tara-ai-career" not in skill:
         fail("unexpected skill name")
     if "description:" not in skill:
         fail("missing skill description")

@@ -1,5 +1,5 @@
 ---
-name: is-han-tara-ai-career
+name: ishann-tara-ai-career
 description: 通过有解释感的多轮对话，为文科、文商科、艺术类和其他非技术背景用户诊断进入 AI 行业的现实路径；也用于判断如何把 AI 用到原专业、自媒体和求职证明中。结合毕业时间、实习业务、职业动机、岗位认知、简历、JD 与作品集，给出岗位切口、能力缺口或下一步探索。不用于算法工程学习规划、医疗决策或实时岗位数据库查询。
 metadata:
   short-description: 文科生转 AI 路径咨询
